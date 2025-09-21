@@ -11,7 +11,7 @@ const Projects = () => {
       tech: ["Android", "Java", "Firebase ML Kit", "Gemini API", "Machine Learning"],
       features: ["Real-time Disease Detection", "AI-powered Recommendations", "Offline Capability", "Multi-language Support"],
       links: {
-        github: "#",
+        github: "https://github.com/X-Shravan/FarmCure",
         demo: "#"
       }
     },
@@ -22,7 +22,7 @@ const Projects = () => {
       tech: ["Android", "Java", "Python", "Speech-to-Text", "TTS", "Educational Tech"],
       features: ["Interactive Learning", "Voice Commands", "Progress Tracking", "Adaptive Content"],
       links: {
-        github: "#",
+        github: "https://github.com/X-Shravan/EDtech",
         demo: "#"
       }
     },
@@ -33,7 +33,7 @@ const Projects = () => {
       tech: ["Flutter", "Dart", "Gemini API", "AI/ML", "Chat Interface"],
       features: ["AI Conversations", "Multiple Chat Modes", "Real-time Messaging", "Cross-platform"],
       links: {
-        github: "#",
+        github: "https://github.com/X-Shravan/Gboard",
         demo: "#"
       }
     },

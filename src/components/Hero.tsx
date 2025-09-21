@@ -8,7 +8,10 @@ const Hero = () => {
   };
 
   return (
-    <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden">
+    <section 
+      id="home" 
+      className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20"
+    >
       {/* Animated background elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute top-20 left-10 w-20 h-20 bg-primary/20 rounded-full animate-float"></div>
@@ -20,10 +23,10 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           {/* Content */}
           <div className="lg:w-1/2 text-center lg:text-left animate-fade-in">
-            <h1 className="text-5xl lg:text-7xl font-bold mb-6">
+            <h2 className="text-5xl lg:text-7xl font-bold mb-6">
               Hi, I'm{' '}
               <span className="text-gradient">Shravan</span>
-            </h1>
+            </h2>
             <div className="text-2xl lg:text-3xl text-muted-foreground mb-6">
               Mobile & Web App Developer
             </div>
