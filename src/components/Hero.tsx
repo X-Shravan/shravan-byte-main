@@ -76,7 +76,7 @@ const Hero = () => {
               <div className="absolute -bottom-4 -left-4 bg-gradient-to-r from-accent to-primary rounded-full p-4 animate-float" style={{ animationDelay: '3s' }}>
                 <div className="text-sm font-bold text-primary-foreground text-center">
                   <div>AI/ML</div>
-                  <div>Expert</div>
+                  <div></div>
                 </div>
               </div>
             </div>
